@@ -22,6 +22,8 @@ The goals / steps of this project are the following:
 [image5]: ./\test_images_output/solidYellowLeft.jpg "solidYellowLeft"
 [image6]: ./\test_images_output/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
 
+[image6]: ./\examples/grayscale.jpg "GrayScale"
+
 ---
 
 ### Reflection
