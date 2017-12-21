@@ -2,7 +2,7 @@
 
 ### How To run
 
-Please review the installation instructions [here:](https://github.com/udacity/CarND-LaneLines-P1/blob/master/README.md)
+Please review the installation instructions [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/README.md)
 
 
 ---
