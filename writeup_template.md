@@ -16,11 +16,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./\test_images_output/solidWhiteCurve.jpg "solidWhiteCurve"
-[image1]: ./\test_images_output/solidWhiteRight.jpg "solidWhiteRight"
-[image1]: ./\test_images_output/solidYellowCurve.jpg "solidYellowCurve"
-[image1]: ./\test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
-[image1]: ./\test_images_output/solidYellowLeft.jpg "solidYellowLeft"
-[image1]: ./\test_images_output/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
+[image2]: ./\test_images_output/solidWhiteRight.jpg "solidWhiteRight"
+[image3]: ./\test_images_output/solidYellowCurve.jpg "solidYellowCurve"
+[image4]: ./\test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
+[image5]: ./\test_images_output/solidYellowLeft.jpg "solidYellowLeft"
+[image6]: ./\test_images_output/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
 
 ---
 
@@ -31,8 +31,6 @@ The goals / steps of this project are the following:
 My pipeline consisted of 6 steps. First, I converted the images to grayscale, then I applied Gaussian smoothing Module, after that I used Canny Edge Detection Module and selected the region of interest and finally I applied Hough Tranform line detection and combined images.
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by getting the lines' slopes
-
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 ![alt text][image1]
 
